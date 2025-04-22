@@ -1,2 +1,2 @@
 # Data-Science
-All the Data Science courses and learnings I did
+A collection of Data Science projects and courses I've completed.
