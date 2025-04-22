@@ -8,4 +8,5 @@
 * **Trabalhando com Diferentes Tipos de Variáveis:** Compreenção e análise de dados categóricos, numéricos e temporais.
 * **Estatística Descritiva:** Calculo e interpretação de medidas de tendência central (média, mediana, moda) e de dispersão (desvio padrão, variância) para resumir e entender os dados.
 
-[Maria Clara Borges - Curso Data Science_ explorando e analisando dados - Alura.pdf](https://github.com/user-attachments/files/19850471/Maria.Clara.Borges.-.Curso.Data.Science_.explorando.e.analisando.dados.-.Alura.pdf)
+
+![Captura de tela 2025-04-22 093301](https://github.com/user-attachments/assets/39b9e4a0-b5f3-4e40-aa4b-e581364b6f47)
